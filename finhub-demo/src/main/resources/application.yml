@@ -1,0 +1,9 @@
+server.port: 8090
+
+api:
+  finnhub:
+    apikey: ck4fsj1r01qus81pv7n0ck4fsj1r01qus81pv7ng
+    domain: finnhub.io/api/v1
+    function:
+      profile2: stock/profile2
+      quote: quote
